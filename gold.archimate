@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.bolton.ac.uk/archimate" name="(new model)" id="55e95c7c" version="2.2.1">
+  <folder name="Business" id="1ce8a228" type="business"/>
+  <folder name="Application" id="16743c81" type="application"/>
+  <folder name="Technology" id="4fffdcf4" type="technology"/>
+  <folder name="Motivation" id="461bbaa4" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="cc724384" type="implementation_migration"/>
+  <folder name="Connectors" id="2eba9695" type="connectors"/>
+  <folder name="Relations" id="9ad8b229" type="relations"/>
+  <folder name="Views" id="94771ec4" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" id="07a52a27" name="Default View"/>
+  </folder>
+</archimate:model>
