@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+/*Owner & Copyrights: Vance King Saxbe. A.*/<?xml version="1.0" encoding="UTF-8"?>
 <archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.bolton.ac.uk/archimate" name="(new model)" id="55e95c7c" version="2.2.1">
   <folder name="Business" id="1ce8a228" type="business"/>
   <folder name="Application" id="16743c81" type="application"/>
@@ -11,3 +11,4 @@
     <element xsi:type="archimate:ArchimateDiagramModel" id="07a52a27" name="Default View"/>
   </folder>
 </archimate:model>
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/
